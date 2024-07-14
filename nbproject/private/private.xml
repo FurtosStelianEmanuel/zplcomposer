@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/layoutlanguage/LayoutComponentWithFont.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/layoutlanguage/layoutzplconverter/marshalling/componentmarshallers/RectangleMarshaller.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/utils/StringUtils.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/ui/components/simplelabel/states/NormalSimpleLabelState.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/layoutlanguage/LayoutConstants.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/ui/SimpleLabelEditor.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/layoutlanguage/layoutzplconverter/marshalling/PrimaryMarshaller.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/ui/components/simplelabel/DrawableSimpleLabel.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/layoutlanguage/components/simple/Rectangle.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/ui/LayoutComposer.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/ui/components/generic/Repaintable.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/ui/DrawerBase.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/ui/components/generic/Drawable.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/layoutlanguage/components/simple/SimpleLabel.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/filesystem/FileSystemHelper.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/ui/components/generic/ControlComponent.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/throttling/Throttler.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/ui/components/generic/DrawableComponentWithSize.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/ui/components/generic/DrawableConstants.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/labelary/LabelaryLabelGenerator.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/layoutlanguage/Size.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/ui/DrawingPanel.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/layoutlanguage/components/dynamic/DynamicLabel.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/ui/components/simplelabel/states/DisabledSimpleLabelState.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/ui/PreviewPanel.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/ui/components/generic/SizedFont.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/layoutlanguage/Font.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/ui/components/generic/Moveable.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/ui/components/generic/Previewable.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/ui/components/generic/DrawableComponentWithFont.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/zpl/ZPLCommands.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/layoutlanguage/LabelGenerator.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/ui/components/generic/events/EventSubscription.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/layoutlanguage/layoutzplconverter/marshalling/componentmarshallers/SimpleLabelMarshaller.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/documentgenerator/DocumentGenerator.java</file>
+            <file>file:/home/manel/NetBeansProjects/DocumentGenerator/src/ui/components/simplelabel/DrawableRectangle.java</file>
+        </group>
+    </open-files>
+</project-private>
